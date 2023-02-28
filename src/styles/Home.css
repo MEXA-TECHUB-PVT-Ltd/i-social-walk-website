@@ -1,0 +1,10 @@
+.home .btn_download {
+    margin-top: 5%;
+    background-color: #38ACFF;
+    color: #FFFFFF
+}
+
+.home .btn_download:hover {
+    background-color: #38ACFF;
+    color: #FFFFFF
+}
